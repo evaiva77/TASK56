@@ -1,0 +1,25 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+body {
+    background-color: #DB7093;
+}
+
+.card-body {
+    background-color: #FFE4E1;
+}
+
+button {
+    position: sticky;
+}
+
+.my-mg{
+	margin: 5px;
+}
